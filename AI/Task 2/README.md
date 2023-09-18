@@ -4,7 +4,7 @@
 
 📜 **Move History and Undo Feature**: The project includes a move history list, allowing players to undo their last moves. It's a great tool for refining strategies and experimenting with different tactics.
 
-📊** Game Statistics**: Track your progress with comprehensive game statistics. The project records player wins, AI wins, and draws, giving you insights into your performance.
+📊 ** Game Statistics**: Track your progress with comprehensive game statistics. The project records player wins, AI wins, and draws, giving you insights into your performance.
 
 🔍 **User Input Validation**: Say goodbye to input errors. Robust input validation ensures that the game runs smoothly, providing a seamless gaming experience.
 
