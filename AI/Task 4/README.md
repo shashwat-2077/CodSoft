@@ -14,7 +14,9 @@ The project combines collaborative filtering techniques and string similarity ca
 **Why is this Exciting?**
 
 🌟 **Personalized Recommendations**: Discover movies that match your preferences.
+
 🧩 **Fuzzy Matching**: Even if you have a slight typo in the movie title, our system will find the right match.
+
 🎯 **Customizable**: You can adjust the number of recommendations and similarity threshold.
 
 Whether you're a movie buff or just looking for something new to watch, give it a try! Share your favourite movie, and it’ll recommend something you'll love. The experiences I've had and the lessons I've learned will undoubtedly shape my career path in a positive way !! Stay tuned for more updates and feel free to reach out if you have any questions or ideas for collaboration. 
